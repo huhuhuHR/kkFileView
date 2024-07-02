@@ -1,0 +1,679 @@
+repo_name: huhuhuHR/kkFileView
+report_id: 6ca1c811d81799127557b849191e60fc
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T01:33:14+00:00'
+requested_by: zhangzhen1979
+provider: github
+branch: master
+detected_tools_count: 43
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/office-plugin/windows-office/help/help2.js
+  detection_source: office-plugin/windows-office/help/help2.js
+  last_updated_by: 陈精华
+  last_updated_on: 2021-06-23 02:26:22.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: 陈精华
+  last_updated_on: 2021-03-18 09:38:53.000000000 Z
+- name: RocksDB
+  description: Embeddable persistent key-value store for fast storage, developed and
+    maintained by Facebook Database Engineering Team
+  website_url: http://rocksdb.org/
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/2432/81KLTHHZ.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: 陈精华
+  last_updated_on: 2019-04-22 03:40:13.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/.github/workflows/maven.yml
+  detection_source: ".github/workflows/maven.yml"
+  last_updated_by: gitchenjh
+  last_updated_on: 2021-12-17 09:31:32.000000000 Z
+- name: Hyper
+  description: On-Demand Container, Per-Second Billing
+  website_url: https://hyper.sh/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Containers as a Service
+  image_url: https://img.stackshare.io/service/3125/xSVaubUG_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/office-plugin/pom.xml
+  detection_source: office-plugin/pom.xml
+  last_updated_by: kl
+  last_updated_on: 2017-12-14 10:55:59.000000000 Z
+- name: TestNG
+  description: A testing framework inspired from JUnit and NUnit
+  website_url: http://testng.org/doc/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/8900/no-img-open-source.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/office-plugin/pom.xml
+  detection_source: office-plugin/pom.xml
+  last_updated_by: kl
+  last_updated_on: 2017-12-14 10:55:59.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/src/main/config/application.properties
+  detection_source: server/src/main/config/application.properties
+  last_updated_by: 陈精华
+  last_updated_on: 2019-11-21 08:58:00.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView
+  detection_source: Repo Metadata
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  version: 20.04.0
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: 陈精华
+  last_updated_on: 2020-06-09 08:22:00.000000000 Z
+- name: com.github.junrar:junrar
+  description: Rar decompression library in plain java
+  version: 4.0.0
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangzhen1979
+  last_updated_on: 2021-12-03 11:05:31.000000000 Z
+  vulnerabilities:
+  - name: Junrar vulnerable to infinite loop via extracting carefully crafted RAR
+      archive
+    cve_id: CVE-2022-23596
+    cve_url: https://github.com/advisories/GHSA-m6cj-93v6-cvr5
+    detected_date: Feb 1
+    severity: high
+    first_patched: 7.4.1
+- name: com.lowagie:itext
+  description: IText, a free Java-PDF library
+  version: 2.1.7
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangzhen1979
+  last_updated_on: 2021-12-03 11:05:31.000000000 Z
+  vulnerabilities:
+  - name: Improper Restriction of XML External Entity Reference in  iText
+    cve_id: CVE-2017-9096
+    cve_url: https://github.com/advisories/GHSA-86p9-x5pw-94qx
+    detected_date: Mar 7
+    severity: high
+    first_patched:
+- name: com.thoughtworks.xstream:xstream
+  description: XStream is a serialization library from Java objects to XML and back
+  version: 1.4.18
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangzhen1979
+  last_updated_on: 2021-12-03 11:05:31.000000000 Z
+  vulnerabilities:
+  - name: Denial of Service by injecting highly recursive collections or maps in XStream
+    cve_id: CVE-2021-43859
+    cve_url: https://github.com/advisories/GHSA-rmr5-cpv2-vgjf
+    detected_date: Feb 1
+    severity: high
+    first_patched: 1.4.19
+  - name: XStream can cause Denial of Service via stack overflow
+    cve_id: CVE-2022-41966
+    cve_url: https://github.com/advisories/GHSA-j563-grx4-pjpv
+    detected_date: Dec 29
+    severity: high
+    first_patched: 1.4.20
+  - name: XStream can cause a Denial of Service by injecting deeply nested objects
+      raising a stack overflow
+    cve_id: CVE-2022-40151
+    cve_url: https://github.com/advisories/GHSA-f8cc-g7j8-xxpm
+    detected_date: Dec 31
+    severity: high
+    first_patched: 1.4.20
+  - name: XStream Denial of Service due to parser crash
+    cve_id: CVE-2022-40153
+    cve_url: https://github.com/advisories/GHSA-fv22-xp26-mm9w
+    detected_date: Sep 21
+    severity: high
+    first_patched:
+  - name: 'Duplicate Advisory: Denial of Service due to parser crash'
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-3mq5-fq9h-gj7j
+    detected_date: Sep 21
+    severity: low
+    first_patched:
+  - name: XStream Denial of Service via stack overflow
+    cve_id: CVE-2022-40155
+    cve_url: https://github.com/advisories/GHSA-5hc5-c3m9-8vcj
+    detected_date: Sep 22
+    severity: low
+    first_patched:
+  - name: XStream Denial of Service via stack overflow
+    cve_id: CVE-2022-40154
+    cve_url: https://github.com/advisories/GHSA-9fwf-46g9-45rx
+    detected_date: Sep 22
+    severity: low
+    first_patched:
+  - name: XStream Denial of Service due to parser crash
+    cve_id: CVE-2022-40156
+    cve_url: https://github.com/advisories/GHSA-4rv7-wj6m-6c6r
+    detected_date: Sep 21
+    severity: low
+    first_patched:
+  - name: XStream Denial of Service due to parser crash
+    cve_id: CVE-2022-40152
+    cve_url: https://github.com/advisories/GHSA-3f7h-mf4q-vrm4
+    detected_date: Sep 21
+    severity: low
+    first_patched:
+- name: org.apache.commons:commons-compress
+  description: Apache Commons Compress software defines an API for working with compression
+    and archive formats
+  version: '1.21'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangxiaoxiao9527
+  last_updated_on: 2021-04-18 04:40:59.000000000 Z
+  vulnerabilities:
+  - name: 'Apache Commons Compress: OutOfMemoryError unpacking broken Pack200 file'
+    cve_id: CVE-2024-26308
+    cve_url: https://github.com/advisories/GHSA-4265-ccf5-phj5
+    detected_date: Feb 21
+    severity: high
+    first_patched: 1.26.0
+  - name: 'Apache Commons Compress: Denial of service caused by an infinite loop for
+      a corrupted DUMP file'
+    cve_id: CVE-2024-25710
+    cve_url: https://github.com/advisories/GHSA-4g9r-vxhx-9pgx
+    detected_date: Feb 29
+    severity: high
+    first_patched: 1.26.0
+- name: commons-httpclient:commons-httpclient
+  description: The HttpClient component supports the client-side of RFC 1945
+  version: '3.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: 陈精华
+  last_updated_on: 2019-11-29 06:40:42.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in apache HttpClient
+    cve_id: CVE-2012-5783
+    cve_url: https://github.com/advisories/GHSA-3832-9276-x7gf
+    detected_date: Mar 15
+    severity: moderate
+    first_patched: '4.0'
+- name: commons-net:commons-net
+  description: Apache Commons Net library contains a collection of network utilities
+    and protocol implementations
+  version: '3.6'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: 陈精华
+  last_updated_on: 2019-11-29 06:40:42.000000000 Z
+  vulnerabilities:
+  - name: Apache Commons Net vulnerable to information leakage via malicious server
+    cve_id: CVE-2021-37533
+    cve_url: https://github.com/advisories/GHSA-cgp8-4m63-fhh5
+    detected_date: Dec 6
+    severity: moderate
+    first_patched: 3.9.0
+- name: org.apache.poi:poi
+  description: Apache POI - Java API To Access Microsoft Format Files
+  version: '3.17'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangxiaoxiao9527
+  last_updated_on: 2021-04-18 04:40:59.000000000 Z
+  vulnerabilities:
+  - name: 'Improper Restriction of XML External Entity Reference in Apache POI '
+    cve_id: CVE-2019-12415
+    cve_url: https://github.com/advisories/GHSA-9jwc-q6j3-8g9g
+    detected_date: Jun 29
+    severity: moderate
+    first_patched: 4.1.1
+- name: org.apache.poi:poi-scratchpad
+  description: Apache POI - Java API To Access Microsoft Format Files
+  version: '3.12'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangxiaoxiao9527
+  last_updated_on: 2021-04-18 04:40:59.000000000 Z
+  vulnerabilities:
+  - name: Improper Input Validation and Allocation of Resources Without Limits or
+      Throttling in poi-scratchpad
+    cve_id: CVE-2022-26336
+    cve_url: https://github.com/advisories/GHSA-mqvp-7rrg-9jxc
+    detected_date: Mar 9
+    severity: moderate
+    first_patched: 5.2.1
+- name: antlr:antlr
+  description: Antlr v3 repository
+  version: 2.7.7
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: kl
+  last_updated_on: 2017-12-14 10:55:59.000000000 Z
+- name: com.googlecode.concurrentlinkedhashmap:concurrentlinkedhashmap-lru
+  description: A high performance version of java.util.LinkedHashMap for use as a
+    software cache
+  version: 1.4.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: 陈精华
+  last_updated_on: 2021-12-07 08:11:50.000000000 Z
+- name: commons-cli:commons-cli
+  description: Apache Commons CLI provides a simple API for presenting
+  version: '1.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/office-plugin/pom.xml
+  detection_source: office-plugin/pom.xml
+  last_updated_by: kl
+  last_updated_on: 2017-12-14 10:55:59.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  version: '2.7'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/office-plugin/pom.xml
+  detection_source: office-plugin/pom.xml
+  last_updated_by: kl
+  last_updated_on: 2017-12-14 10:55:59.000000000 Z
+- name: fr.opensagres.xdocreport:fr.opensagres.xdocreport.document
+  description: XDocReport means XML Document reporting
+  version: 1.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangxiaoxiao9527
+  last_updated_on: 2021-04-18 04:40:59.000000000 Z
+- name: javax.media:jai_core
+  description: The Java Advanced Imaging API extends the Java 2 platform by allowing
+    sophisticated, high-performance image processing to be incorporated into Java
+    applets and applications
+  version: 1.1.3
+  license: AAL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangzhen1979
+  last_updated_on: 2021-12-17 07:50:03.000000000 Z
+- name: net.sourceforge.jchardet:jchardet
+  description: POM was created by Sonatype Nexus
+  version: '1.0'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: BearBen
+  last_updated_on: 2021-12-17 01:23:32.000000000 Z
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  version: '3.7'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangxiaoxiao9527
+  last_updated_on: 2021-04-18 04:40:59.000000000 Z
+- name: org.apache.pdfbox:pdfbox
+  description: The Apache PDFBox library is an open source Java tool for working with
+    PDF documents
+  version: 2.0.24
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangxiaoxiao9527
+  last_updated_on: 2021-04-18 04:40:59.000000000 Z
+- name: org.apache.pdfbox:pdfbox-tools
+  description: The Apache PDFBox library is an open source Java tool for working with
+    PDF documents
+  version: 2.0.15
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangxiaoxiao9527
+  last_updated_on: 2021-04-18 04:40:59.000000000 Z
+- name: org.bytedeco:javacpp
+  description: The missing bridge between Java and native C++
+  version: 1.5.2
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangzhen1979
+  last_updated_on: 2021-12-03 11:05:31.000000000 Z
+- name: org.bytedeco:javacv
+  description: Java interface to OpenCV and more
+  version: 1.5.2
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangzhen1979
+  last_updated_on: 2021-12-03 11:05:31.000000000 Z
+- name: org.json:json
+  description: JSON is a light-weight, language independent, data interchange format
+  license: JSON
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/office-plugin/pom.xml
+  detection_source: office-plugin/pom.xml
+  last_updated_by: kl
+  last_updated_on: 2017-12-14 10:55:59.000000000 Z
+- name: org.openoffice:juh
+  description: Allows the boostrapping of a ServicemManager and gives access to the
+    native component loader
+  version: 3.2.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/office-plugin/pom.xml
+  detection_source: office-plugin/pom.xml
+  last_updated_by: chenkailing
+  last_updated_on: 2020-12-26 09:30:24.000000000 Z
+- name: org.openoffice:ridl
+  description: The type library and the precompiled Java interfaces of the UDK API
+  version: 3.2.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/office-plugin/pom.xml
+  detection_source: office-plugin/pom.xml
+  last_updated_by: chenkailing
+  last_updated_on: 2020-12-26 09:30:24.000000000 Z
+- name: org.openoffice:unoil
+  description: The precompiled Java interfaces of the OOo API
+  version: 3.2.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/office-plugin/pom.xml
+  detection_source: office-plugin/pom.xml
+  last_updated_by: chenkailing
+  last_updated_on: 2020-12-26 09:30:24.000000000 Z
+- name: org.redisson:redisson
+  description: Redis based In-Memory Data Grid for Java
+  version: 3.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangxiaoxiao9527
+  last_updated_on: 2021-04-18 04:40:59.000000000 Z
+- name: org.rocksdb:rocksdbjni
+  description: RocksDB fat jar that contains .so files for linux32 and linux64
+  version: 5.17.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangxiaoxiao9527
+  last_updated_on: 2021-04-18 04:40:59.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-jetty
+  description: Starter for using Jetty as the embedded servlet container
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: BearBen
+  last_updated_on: 2021-12-17 01:23:32.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: BearBen
+  last_updated_on: 2021-12-17 01:23:32.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: BearBen
+  last_updated_on: 2021-12-17 01:23:32.000000000 Z
+- name: org.testng:testng
+  description: Testing framework for Java
+  version: 6.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/office-plugin/pom.xml
+  detection_source: office-plugin/pom.xml
+  last_updated_by: kl
+  last_updated_on: 2017-12-14 10:55:59.000000000 Z
+- name: org.tukaani:xz
+  description: XZ data compression
+  version: '1.8'
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kkFileView/blob/master/server/pom.xml
+  detection_source: server/pom.xml
+  last_updated_by: zhangxiaoxiao9527
+  last_updated_on: 2021-04-18 04:40:59.000000000 Z
